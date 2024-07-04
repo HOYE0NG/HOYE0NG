@@ -1,6 +1,8 @@
 
 <!--타이틀-->
-
+<p align="center">
+<img src="![github_title](https://github.com/HOYE0NG/HOYE0NG/assets/89457737/30230147-0774-4f4a-835f-2460f35d18e6)">
+</p>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
