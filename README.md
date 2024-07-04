@@ -58,5 +58,5 @@ Here are some ideas to get you started:
   </a>
 </div>
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoye0ng&show_icons=true&theme=radical)&nbsp
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoye0ng&show_icons=true&theme=radical)
 </div>
