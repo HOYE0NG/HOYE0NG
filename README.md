@@ -57,6 +57,7 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/hy8839@sogang.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-<div align="center">
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoye0ng&show_icons=true&theme=radical)
-</div>
+
