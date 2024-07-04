@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="mailto:hy8839@sogang.ac.kr">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/hy8839@sogang.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
